@@ -1,4 +1,6 @@
 # Constructores
+
+# este constructor me ayuda para inicializar mi clase  persona
 class Persona:
     def __init__(self, nombre, edad, ciudad):
         self.nombre = nombre
@@ -18,6 +20,8 @@ print(persona2.saludar())  # Salida: Hola, soy Carmen, tengo 20 años y vivo en 
 
 
 # Destructores
+
+# use este contructor para relizar una limpieza de mi archivo
 class Archivo:
     def __init__(self, nombre):
         self.nombre = nombre
