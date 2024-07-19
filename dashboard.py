@@ -26,7 +26,7 @@ def mostrar_menu():
         '7': '1.6. Semana 4/ejemplos del mundo real.py',
         '8': '1.7. Semana 5/calcular el area de un perimetro.py',
         '9': 'Programacion Orientada a Objetos/Tecnicas de Programacion/2.Unidad 2.py',
-        '10': '2.1. Semana 6/objeto, clase herencia, polimorfismo.py',
+        '10': '2.1. Unidad 2/Semana 6/objeto, clase herencia, polimorfismo.py',
         '11': '2.2. Semana 7/ implementacion de conductores y destructores.py',
 
          
