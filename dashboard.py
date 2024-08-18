@@ -18,14 +18,14 @@ def mostrar_menu():
 
     opciones = {
 
-        '1': 'Tecnicas de Programacion/Unidad 1/Semana 2/1.1. Abstraccion/abstraccion.py',
-        '2': 'Tecnicas de Programacion/Unidad 1/Semana 2/1.2. Encapsulacion/encapsulacion.py',
-        '3': 'Tecnicas de Programacion/Unidad 1/Semana 2/1.3. Herencia/herencia.py',
-        '4': 'Tecnicas de Programacion/Unidad 1/Semana 2/1.4. Polimorfismo/polimorfismo.py',
-        '5': 'Tecnicas de Programacion/Unidad 1/Semana 2/1.5. Tarea 3/clase clima.py',
-        '6': 'Tecnicas de Programacion/Unidad 1/Semana 2/1.5.1. Tarea 3/programacion tradicional.py',
-        '7': 'Tecnicas de Programacion/Unidad 1/Semana 2/1.6. Semana 4/ejemplos del mundo real.py',
-        '8': 'Tecnicas de Programacion/Unidad 1/Semana 2/1.7. Semana 5/calcular el area de un perimetro.py',
+        '1': 'Tecnicas de Programacion/Unidad 1/1.1. Semana 2/1.2. Abstraccion/abstraccion.py',
+        '2': 'Tecnicas de Programacion/Unidad 1/1.1. Semana 2/1.3. Encapsulacion/encapsulacion.py',
+        '3': 'Tecnicas de Programacion/Unidad 1/1.1. Semana 2/1.4. Herencia/herencia.py',
+        '4': 'Tecnicas de Programacion/Unidad 1/1.1. Semana 2/1.5. Polimorfismo/polimorfismo.py',
+        '5': 'Tecnicas de Programacion/Unidad 1/1.1. Semana 2/1.6. Tarea 3/clase clima.py',
+        '6': 'Tecnicas de Programacion/Unidad 1/1.1. Semana 2/1.6.1. Tarea 3/programacion tradicional.py',
+        '7': 'Tecnicas de Programacion/Unidad 1/1.1. Semana 2/1.7. Tarea 4/ejemplos del mundo real.py',
+        '8': 'Tecnicas de Programacion/Unidad 1/1.1. Semana 2/1.8. Tarea 5/calcular el area de un perimetro.py',
         '9': 'Tecnicas de Programacion/Unidad 2/2.1. Semana 6/objeto clase herencia polimorfismo.py',
        '10': 'Unidad 2/2.2. Semana 7/implementacion de constructores y destructores.py',
 
