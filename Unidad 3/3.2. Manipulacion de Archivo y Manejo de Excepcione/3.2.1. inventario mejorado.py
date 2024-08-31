@@ -1,6 +1,5 @@
 import json
 import os
-
 class Inventario:
     def __init__(self, archivo='inventario.txt'):
         self.archivo = archivo
