@@ -1,3 +1,4 @@
+
 # Definicion de clase
 class Producto:
     def __init__(self, id, nombre, cantidad, precio):
@@ -150,9 +151,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-
-
-
-
